@@ -1,0 +1,12 @@
+This "Notest Portal Project-> HCST NOTES" need some folders in C Drive for saving uploaded notes
+
+You Have to Copy "Notes" Folder in C Drive before running the project
+
+Only Teacher Can Upload Notes & Student Can Search and Download Notes
+
+Student Account can be created from home page 
+
+Teacher's Account Only created by Admin 
+
+"database" folder contains all table structures 
+ 
