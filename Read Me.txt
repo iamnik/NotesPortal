@@ -1,0 +1,11 @@
+This "Notest Portal Project-> HCST NOTES" need some folders in C Drive for saving uploaded notes
+
+You Have to Copy "Notes" Folder in C Drive before running the project
+
+Student Account can be created from home page & Teacher's Account can Only created by Admin.
+
+"database" folder contains all table structures & before running this project for the first time first setup the database.
+use MySQL with password "3306"
+
+admin default ID: admin & PASSWORD: admin can be used to run this project for the first time.
+ 
